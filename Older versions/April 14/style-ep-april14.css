@@ -1,0 +1,349 @@
+.company_name {
+    height: 150px;
+    width: 850px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+}
+
+#logoHomePage  {background-image: url("../images/Logo3.png");
+    background-size: cover;}
+
+.home_image {
+    height: 450px;
+    width: 450px;
+    background-image: url("images/ChocolateCase.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left:auto;
+    Margin-right: auto;
+    Margin-top: 50px;
+    Margin-bottom: 25px;
+    background-color: aqua;
+    }
+
+#HomeMainImage  {background-image: url("../images/ChocolateCase.jpg");
+    background-size: cover;}
+
+.mainText {
+    height: 230px;
+    width: 700px;
+    text-align: center;
+    Margin-top: 25px;
+    Margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    Background-color: #F07818;
+    box shadow: 30px 30px 30px 30px
+    padding: 10px;
+}
+
+#invitation {
+    /*please style to make this stand out a bit.  Some nice italics, maybe?*/
+}
+.navigation_bar {
+    background-color: #FCEBB6;
+    height: 50px;
+    width: 450px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 2 2 2 2;
+    /*navigation bar container*/
+}
+
+.menu_links {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    
+    /*list for navigation bar the <ul>*/
+}
+
+.linkToPage {
+    float: left;
+    /*individual links to pages*/
+}
+
+.nav_bar {
+    display: block;
+    padding: 14px;
+    background-color: #dddddd;
+    text-decoration: none;
+    /*covers <a href> in list*/
+}
+
+.page_title {
+    background-color: mediumpurple;
+    height: 75px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
+.sites_box {
+    background-color: red;
+    height: 350px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.shop_name {
+    background-color: greenyellow;
+    height: 50px;
+    width: 950px;
+    float: left;
+    margin: 1 1 2 1
+}
+
+   
+.shop_image {
+    background-color: yellow;
+    height: 295;
+    width: 250px;
+    background-image: url("images/Li-LacChocolateShop-resized.jpg");
+    background-size: cover;
+    float: left;
+    margin: 1 1 1 1;
+}
+
+#shopOne  {background-image: url("../images/LiLacChocolateShopResized.jpg");
+    background-size: cover;}
+
+#shopTwo  {background-image: url("../images/SerendipityResized.jpg");
+    background-size: cover;}
+    
+#shopThree  {background-image: url("../images/mastResized.jpg");
+    background-size: cover;}
+    
+.shop_address {
+    background-color: skyblue;
+    height: 50px;
+    width: 696px;
+    float: left;
+    margin: 1 1 2 1;
+}
+   
+    
+.shop_description {
+    background-color: orange;
+    height: 242px;
+    width: 696px;
+    float: left;
+    margin: 1 1 1 1;
+    }
+    
+    
+    
+.faqs_box {
+    background-color: red;
+    height: auto;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.faq_individual {    
+    background-color: lightgoldenrodyellow;
+    height: auto;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5 1 5 1;    
+}
+
+
+.faq {
+    background-color: greenyellow;
+    height: auto;
+    width: 948px;
+    float: left;
+    margin: 1 1 10 1
+}
+
+
+.faq_response {
+    background-color: darkgray;
+    height: auto
+    width: 948;
+    margin: 10 1 1 1;
+}
+
+
+.passport_box {
+    background-color: red;
+    height: 302px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+.passport_image {
+    background-color: burlywood;
+    height: 300px;
+    width: 240px;
+    float: left;
+    margin: 1 1 1 1;   
+}
+
+#passport {background-image: url("../images/decadentPassport3Medium.jpg");
+    background-size: cover;background-color:red;}
+
+.passport_title {
+    background-color: skyblue;
+    height: 50px;
+    width: 706px;
+    float: left;
+    margin: 1 1 2 1;
+}
+   
+    
+.passport_description {
+    background-color: orange;
+    height: 246px;
+    width: 706px;
+    float: left;
+    margin: 1 1 1 1;
+    }
+
+
+
+
+.limo_box {
+    background-color: red;
+    height: 302px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+
+
+.limo_image {
+    background-color: burlywood;
+    height: 301px;
+    width: 393px;
+    float: right;
+    margin: 1 1 1 1;   
+}
+
+#limo {background-image: url("../images/limo2medium.jpg");
+    background-size: cover;background-color:red;}
+
+.limo_title {
+    background-color: skyblue;
+    height: 50px;
+    width: 552px;
+    float: right;
+    margin: 1 1 2 1;
+}
+   
+    
+.limo_description {
+    background-color: orange;
+    height: 246px;
+    width: 552px;
+    float: right;
+    margin: 1 1 1 1;
+    }
+    
+.consumer_info {
+    background-color: blue;
+    height:160px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.tips_list {
+    background-color: lightcoral;
+    height: 158px;
+    width: 469px;
+    float: left;
+    margin: 1 5 1 1;
+    }
+
+
+.supply_list {
+    background-color: darkseagreen;
+    height: 158px;
+    width: 469px;
+    float: left;
+    margin: 1 1 1 5;
+}
+
+
+
+.getting_around {
+    background-color: yellow;
+    height: 304px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+
+.tour_instructions {
+    background-color: pink;
+    height: 302px;
+    width: 662px;
+    float: left;
+    margin: 1 1 1 1;
+}
+
+.map_image {
+    background-color: darkgrey;
+    height: 300;
+    width: 281px;
+    float: left;
+    margin: 1 1 1 1;   
+}
+
+#map {background-image: url("../images/tourRoute3small.jpg");
+    background-size: cover;background-color:red;}
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

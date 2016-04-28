@@ -1,0 +1,241 @@
+.home_image {
+    height: 450px;
+    width: 450px;
+    margin-left:auto;
+    Margin-right: auto;
+    Margin-top: 100px;
+    Margin-bottom: 25px;
+    background-color: aqua;
+    }
+
+.company_name {
+    height: 100px;
+    width: 450px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu_bar {
+    background-color: green;
+    height: 50px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 2 2 2 2;
+}
+.page_title {
+    background-color: mediumpurple;
+    height: 75px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
+.sites_box {
+    background-color: red;
+    height: 350px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.shop_name {
+    background-color: greenyellow;
+    height: 50px;
+    width: 950px;
+    float: left;
+    margin: 1 1 2 1
+}
+
+   
+.shop_image {
+    background-color: burlywood;
+    height: 295;
+    width: 250px;
+    float: left;
+    margin: 1 1 1 1;
+}
+
+
+.shop_address {
+    background-color: skyblue;
+    height: 50px;
+    width: 696px;
+    float: left;
+    margin: 1 1 2 1;
+}
+   
+    
+.shop_description {
+    background-color: orange;
+    height: 242px;
+    width: 696px;
+    float: left;
+    margin: 1 1 1 1;
+    }
+    
+    
+    
+.faqs_box {
+    background-color: red;
+    height: auto;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.faq_individual {    
+    background-color: lightgoldenrodyellow;
+    height: auto;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5 1 5 1;    
+}
+
+
+.faq {
+    background-color: greenyellow;
+    height: auto;
+    width: 948px;
+    float: left;
+    margin: 1 1 10 1
+}
+
+
+.faq_response {
+    background-color: darkgray;
+    height: auto
+    width: 948;
+    margin: 10 1 1 1;
+}
+
+
+.passport_box {
+    background-color: red;
+    height: 202px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+.passport_image {
+    background-color: burlywood;
+    height: 200;
+    width: 250px;
+    float: left;
+    margin: 1 1 1 1;   
+}
+
+
+.passport_title {
+    background-color: skyblue;
+    height: 50px;
+    width: 696px;
+    float: left;
+    margin: 1 1 2 1;
+}
+   
+    
+.passport_description {
+    background-color: orange;
+    height: 146px;
+    width: 696px;
+    float: left;
+    margin: 1 1 1 1;
+    }
+
+
+.consumer_info {
+    background-color: blue;
+    height:300px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.tips_list {
+    background-color: lightcoral;
+    height: 298px;
+    width: 469px;
+    float: left;
+    margin: 1 5 1 1;
+    }
+
+
+.supply_list {
+    background-color: darkseagreen;
+    height: 298px;
+    width: 469px;
+    float: left;
+    margin: 1 1 1 5;
+}
+
+
+
+.getting_around {
+    background-color: yellow;
+    height: 302px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+
+.tour_instructions {
+    background-color: pink;
+    height: 300px;
+    width: 696px;
+    float: left;
+    margin: 1 1 1 1;
+}
+
+.map_image {
+    background-color: darkgrey;
+    height: 300;
+    width: 250px;
+    float: left;
+    margin: 1 1 1 1;   
+}
+
+
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

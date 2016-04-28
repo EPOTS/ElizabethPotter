@@ -1,0 +1,17 @@
+   <!DOCTYPE>
+<html>
+<head>
+map
+    </head>
+    
+    
+    
+    <body>
+    <div class="map_image">
+            <!--map of tour route-->
+            <a href="https://www.google.com/maps/dir/Chelsea+Market,+9th+Avenue,+New+York,+NY/Li-Lac+Chocolates+(West+Village),+8th+Avenue,+New+York,+NY/Serendipity+3,+East+60th+Street,+New+York,+NY/Mast+Brothers+Chocolate,+North+3rd+Street,+Brooklyn,+NY/Chelsea+Market,+9th+Avenue,+New+York,+NY/@40.7296969,-74.00922,13z/data=!4m37!4m36!1m5!1m1!1s0x89c259bf144c69c3:0x7e61762e972dc0a2!2m2!1d-74.0060199!2d40.742485!1m10!1m1!1s0x89c259957c0ea001:0x42f3b318cbaeb70c!2m2!1d-74.0040236!2d40.7380455!3m4!1m2!1d-73.9739687!2d40.7539249!3s0x89c25902829bd291:0x5b376b4f3a6295af!1m5!1m1!1s0x89c259a9a94054ed:0xccbfde5942dbc6e3!2m2!1d-73.9648937!2d40.7618478!1m5!1m1!1s0x89c25960dbaf4605:0xc5188899ccd6a9a0!2m2!1d-73.9616049!2d40.716735!1m5!1m1!1s0x89c259bf144c69c3:0x7e61762e972dc0a2!2m2!1d-74.0060199!2d40.742485!3e0"></a>
+            <!--Insert image of map with chocolate shops marked.  Let's try to link to google maps if possible-->        
+                            </div>  
+                            
+                            </body>
+                            </html>

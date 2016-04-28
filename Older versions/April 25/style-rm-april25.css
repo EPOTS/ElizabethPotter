@@ -1,0 +1,478 @@
+body {
+    background-color: #78C0A8;
+    }
+
+
+.company_name {
+    height: 180px;
+    width: 761px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    margin-bottom: 20px;
+    
+}
+a.blacklink, a.blacklink:hover, a.blacklink:visited, a.blacklink:active, a.blacklink:focus{
+    color:black;
+}
+
+
+#logoHomePage  {background-image: url("../images/Logo3size180x761.png");
+    background-size: cover;}
+
+.home_image {
+    height: 450px;
+    width: 450px;
+    margin-left:auto;
+    Margin-right: auto;
+    Margin-top: 50px;
+    Margin-bottom: 25px;
+    /*below is new idea for a shadow.  this one makes an even blurr all around the image*/
+    box-shadow: 0px 0px 20px #632D2B;
+    /* original box shadow style box-shadow: 3px 3px 3px 3px #632D2B;*/
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #FCEBB6 solid;
+    }
+
+#HomeMainImage  {background-image: url("../images/ChocolateCase.jpg");
+    background-size: cover;}
+
+.mainText {
+    height: 230px;
+    width: 700px;
+    text-align: center;
+    Margin-top: 25px;
+    Margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    Background-color: #F07818;
+    /*below is new idea for a shadow.  this one makes an even blurr all around the image*/
+    box-shadow: 0px 0px 20px #632D2B;
+    /* original box shadow style box-shadow: 3px 3px 3px 3px #632D2B;*/
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#invitation {
+    /*please style to make this stand out a bit.  Some nice italics, maybe?*/
+}
+
+.navigation_bar {
+    background-color: red;
+    height: 50px;
+    width: 770px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /*below is new idea for a shadow.  this one makes an even blurr all around the image*/
+    box-shadow: 0px 0px 20px #632D2B;
+    /* original box shadow style box-shadow: 3px 3px 3px 3px #632D2B;*/
+    border-radius: 15px;
+    /*navigation bar container*/
+}
+
+.menu_links {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #FCEBB6;
+    border-radius: 15px;
+    /*list for navigation bar the <ul>*/
+}
+
+.linkToPage {
+    float: left;
+    border-right: 1px solid #5E412F;
+    font-weight: bold;
+    /*individual links to pages in nav bar, the <li>*/
+}
+
+li:last-child {
+    border-right: none;
+}
+    
+.nav_bar {
+    display: block;
+    color: #5E412F;
+    text-align: center;
+    margin: 0;
+    padding: 17px 51px 17px 51px;
+    text-decoration: none;
+        /*covers <a href> in list in nav bar*/
+}
+
+li a:hover {
+    background-color: #F0A830;
+}
+
+
+
+
+.page_title {
+    /*background-color: mediumpurple;*/
+    color: #F0A830;
+    font-size: 40px;
+    height: 75px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+    text-shadow: 0px 0px 10px black;
+    
+}
+
+
+/* Start Chocolate Stores Page */
+.sites_box {
+    background-color: red;
+    height: 300px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    /*Background-color: #F07818;*/
+    /*box-shadow: 0px 0px 20px #632D2B;*/
+    /*padding: 10px;*/
+    /*padding in this container is not necessary*/
+    
+}
+
+
+
+   
+.shop_image {
+    height: 300px;
+    /*height: 295;*/
+    /*original height*/
+    width: 250px;
+    background-image: url("images/Li-LacChocolateShop-resized.jpg");
+    background-size: cover;
+    float: left;
+    /*margin: 1 1 1 1;*
+    /*removed margin to resize image*/
+    Background-color: #FCEBB6;
+    border-radius: 25px;
+    margin: 0 10 0 0;
+   
+    
+}
+
+#shopOne  {background-image: url("../images/LiLacChocolateShopResized.jpg");
+    background-size: cover;}
+
+#shopTwo  {background-image: url("../images/SerendipityResized.jpg");
+    background-size: cover;}
+    
+#shopThree  {background-image: url("../images/mastResized.jpg");
+    background-size: cover;}
+    
+
+.shopInfoBox {
+    height: 300px;
+    width: 690px;
+    float: left;
+    Background-color: #FCEBB6;
+    border-radius: 25px;
+    /*background-color: blue;*/
+    /*needs work*/
+}
+    
+    
+    
+    
+    
+.shop_name {
+    height: 50px;
+    width: 665px;
+    float: left;
+    margin: 0 0 2 20;
+    color: #F0A830;
+    font-family:Verdana, Geneva, sans-serif;
+    color: Black
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+   
+.shop_address {
+    height: 50px;
+    width: 665px;
+    float: left;
+    margin: 0 0 2 20;
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+    
+.shop_description {
+    height: 242px;
+    width: 665px;
+    float: left;
+    margin: 0 0 2 20;
+    font-size: 14px;
+    font-family:Verdana, Geneva, sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+/* Start FAQs page*/
+#faq-container {
+    /* container for all the FAQS */
+    background-color: red;
+    height: 1330px;
+    width: 950px;
+    margin-right: auto;
+    margin-left: auto;
+}
+    
+.faq {
+    /*container for FAQ & response*/
+    background-color: #6b9a8b;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px 30px;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    border:3px #5E412F solid;
+    margin-bottom: 25px;
+    /*margin-right: auto; not necesarry -- using this code in faq-container*/
+    /*margin-left: auto; not necesarry -- using this code in faq-container*/
+    /*background-color: greenyellow;*/
+    height: auto;
+    width: 884px;
+    float: left;
+    /*margin: 1 1 10 1 this is repetative, code for margin-bottom is above and is different.  Was causing conflict */
+}
+    
+
+/*#faq .faq_individual {*/    
+   /* background-color: lightgoldenrodyellow;*/
+   /* height: auto;*/
+   /* width: 950px;*/
+    /*margin: 5 1 5 1;*/    
+
+
+.faq_response {
+    height: auto;
+    margin: 10 1 1 1;
+}
+
+/* Start How To page*/
+.passport_box {
+    /*background-color: red;*/
+    height: 302px;
+    width: 950px;
+    margin: 30px auto 15px auto;
+}
+
+
+.passport_image {
+    background-color: burlywood;
+    height: 276px;
+    width: 240px;
+    float: left;
+    margin: 1 8 1 1;   
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+}
+
+#passport {background-image: url("../images/decadentPassport3Medium.jpg");
+    background-size: cover;background-color:red;}
+
+/*.passport_title {background-color: skyblue; color: #5E412F; font-weight: bold; height: 50px;
+    width: 649px; float: left;
+    margin: 1 1 2 10; padding: 0px 10px 5px 10px;}*/
+   
+    
+.passport_description {
+    /*background-color: orange;*/
+    background-color: #6b9a8b;
+    /*color: #5E412F;*/
+    /*changed brown back to black to make more visable*/
+    height: 276px;
+    width: 638px;
+    float: left;
+    margin: 0 0 0 10;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+    text-align: justify;
+    text-justify: inter-word;
+       }
+
+
+.limo_box {
+    /*background-color: red;*/
+    height: 302px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.limo_image {
+    /*background-color: burlywood;*/
+    height: 275px;
+    width: 385px;
+    float: right;
+    margin: 1 1 1 8;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+}
+
+#limo {background-image: url("../images/limo2medium.jpg");
+    background-size: cover;}
+
+/*.limo_title {font-weight: bold; height: 50px;
+    width: 498px; float: right; margin: 1 10 2 1; padding: 0px 10px 5px 10px;} */
+   
+    
+.limo_description {
+    /*background-color: orange;*/
+    /*color: #5E412F;*/
+    /*changed brown back to black to make more visable*/
+    background-color: #6b9a8b;
+    height: 275px;
+    width: 492px;
+    float: right;
+    margin: 1 10 1 1;
+    padding: 0px 10px 5px 10px;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+    text-align: justify;
+    text-justify: inter-word;
+    }
+    
+
+    
+/*a.brownlink, a.brownlink:hover, a.brownlink:visited, a.brownlink:active, a.brownlink:focus {color: #5E412F;}*/
+
+
+    
+    
+.consumer_info {
+    /*background-color: blue;*/
+    height:160px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+
+
+#tips_list {
+    /*background-color: lightcoral;*/
+    background-color: #6b9a8b;
+    /*color: #5E412F;*/
+    /*changed brown back to black to make more visable*/
+    height: 132px;
+    width: 439px;
+    float: left;
+    margin: 1 9 1 1;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+    }
+
+
+#supply_list {
+    /*background-color: darkseagreen;*/
+    background-color: #6b9a8b;
+    /*color: #5E412F;*/
+    /*changed brown back to black to make more visable*/
+    height: 132px;
+    width: 439px;
+    float: left;
+    margin: 1 1 1 9;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+}
+
+
+.getting_around {
+    /*background-color: yellow;*/
+    height: 304px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 60px;
+    
+}
+
+
+
+.tour_instructions {
+    background-color: #6b9a8b;
+    /*color: #5E412F;*/
+    /*changed brown back to black to make more visable*/
+    height: 281px;
+    width: 614px;
+    float: left;
+    margin-right: 10px;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    border:3px #5E412F solid;
+    padding: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.map_image {
+    /*background-color: darkgrey;*/
+    height: 275;
+    width: 257px;
+    float: left;
+    margin-left: 8px;
+    box-shadow: 0px 0px 20px #632D2B;
+    border-radius: 15px;
+    padding: 10px;
+    border:3px #5E412F solid;
+    /*border:3px #F07818 solid;*/
+}
+
+#map {background-image: url("../images/tourRoute3small.jpg");
+    background-size: cover;background-color:red;}
+
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
